@@ -1,0 +1,64 @@
+.mynav {
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+
+nav {
+    color:black;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(128, 9, 9);
+}
+
+.plinha {
+    text-align: center;
+}
+
+.barranav {
+    text-align: center;
+    padding-top: 20px;
+}
+
+p {
+    margin:auto;
+}
+
+#site-search {
+    width:600px;
+}
+
+.inputOne {
+    padding-left: 325px;
+}
+
+.um {
+    padding-left:325px;
+}
+
+.segParte {
+    padding-left: 325px;
+}
+
+.quarParte {
+    padding-left: 325px;
+}
+
+.terParte {
+    padding-left: 325px;
+}
+
+.quinParte {
+    padding-left: 325px;
+}
+
+.sexParte {
+    padding-left: 325px;
+}
+
+.setParte {
+    padding-left: 325px;
+}
